@@ -1,0 +1,5 @@
+git init creará un nuevo repositorio local GIT. El siguiente comando de Git creará un repositorio en el directorio actual.
+git clone se usa para copiar un repositorio. Si el repositorio está en un servidor remoto.
+A la inversa, ejecuta el siguiente comando básico para copiar un repositorio local
+git clone /path/to/repository
+git add se usa para agregar archivos al área de preparación. Por ejemplo, el siguiente comando de Git básico indexará el archivo temp.txt.
